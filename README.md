@@ -1,7 +1,7 @@
-# Stock-Market-prediction-using-ML-and-LDA-on-twitter-data
+# Stock Market prediction using ML and LDA on twitter data
 
 Latent Dirichlet Allocation (LDA) and ANN used in an analysis of stock related tweets, to predict the movement of the Dow Jones index.
 
-By aggregating stock related tweets on an hourly basis, LDA is able to discover latent topics. The latent topics are used in both a K-Nearest Neighbour and an ArtificialNeural Network classifier.
+By aggregating stock related tweets on an hourly basis, LDA is able to discover latent topics. The latent topics are used in both a K-Nearest Neighbour and an Artificial Neural Network classifier.
 
-Evaluating the classifiers through Kappa statistics and F1 score show no evidence ofpredictive performance. Aggregating tweets in shorter intervals as an approach toimprove classifier performance is discussed, and so is the application of TF-iDF as analternative method for weighting term importance.
+Evaluating the classifiers through Kappa statistics and F1 score show no evidence of predictive performance. Aggregating tweets in shorter intervals as an approach to improve classifier performance is discussed, and so is the application of TF-iDF as an alternative method for weighting term importance.
