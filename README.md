@@ -9,3 +9,4 @@ Evaluating the classifiers through Kappa statistics and F1 score show no evidenc
 Multidimensional Scaling is applied to provide a visual representation of the distances (euclidean) between the tweets (documents).
 
 ### This repository contains the R scripts used to obtain our results
+
