@@ -10,3 +10,6 @@ Multidimensional Scaling is applied to provide a visual representation of the di
 
 ### This repository contains the R scripts used to obtain our results
 
+## Contributors
+* Martin Johnsen ([mar10nJohns1](https://github.com/mar10nJohns1))
+* Oliver Brandt ([brandtoliver](https://github.com/brandtoliver))
